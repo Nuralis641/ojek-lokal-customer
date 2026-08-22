@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946694813963",
+    "project_id": "ojek-lokal",
+    "storage_bucket": "ojek-lokal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946694813963:android:105164499264dd04924a0e",
+        "android_client_info": {
+          "package_name": "com.ojek.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFOd9mW73OK9AbX3__ToN3l59cI_Wv68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946694813963:android:fa80df7d1b3e08ab924a0e",
+        "android_client_info": {
+          "package_name": "com.ojeklokal.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFOd9mW73OK9AbX3__ToN3l59cI_Wv68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
